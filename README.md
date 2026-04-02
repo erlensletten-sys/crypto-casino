@@ -1,4 +1,4 @@
-# 💎 Diamond Casinos — White-Label Crypto Casino Platform
+# 💎 Diamond Casinos — Built for operators who move fast - By R4ke.
 
 > **A production-ready, self-hosted crypto casino with plug-and-play game integrations, provably fair original games, and a full-featured admin dashboard.**
 
@@ -223,7 +223,7 @@ Players can verify any bet using the server seed (revealed after rotation), thei
 | **Website** | [notogreed.com](https://notogreed.com) |
 | **Demo Website** | [demo.notogreed.com](https://demo.notogreed.com) |
 
-Demos available on request. White-label inquiries welcome.
+Demos available on request. White-label inquiries welcome aswell as redesigns.
 
 ---
 
@@ -235,4 +235,4 @@ Contact [@rakestake](https://t.me/rakestake) for licensing.
 
 ---
 
-<p align="center">💎 Diamond Casinos — Built for operators who move fast.</p>
+<p align="center">💎 Diamond Casinos — Built for operators who move fast - By R4ke.</p>
